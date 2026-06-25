@@ -43,7 +43,7 @@ pip install torch torchvision torchaudio pandas numpy scikit-learn pillow matplo
 
 ## Cara Menjalankan
 
-1. Buka file notebook `WithNewFeatures(1).ipynb`.
+1. Buka file notebook `WithNewFeatures.ipynb`.
 2. Pastikan dataset sudah tersedia di laptop.
 3. Sesuaikan path dataset pada bagian awal notebook.
 4. Jalankan semua sel secara berurutan.
